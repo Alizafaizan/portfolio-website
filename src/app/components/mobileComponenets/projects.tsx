@@ -8,21 +8,21 @@ const MobileProjects = () => {
           name: "Ecommerce Website",
           detail:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quis, illo facere   quasi, quo quisquam ipsa cumque ea officiis illum ratione quae eligendi tempore nemo delectus veniam fuga saepe voluptatem!",
-          link: "#",
+          link: "https://onepage-ecommerce.vercel.app/",
           image: "landing.png",
         },
         {
           name: "Resume Builder",
           detail:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quis, illo facere   quasi, quo quisquam ipsa cumque ea officiis illum ratione quae eligendi tempore nemo delectus veniam fuga saepe voluptatem!",
-          link: "#",
+          link: "https://resume-builder-sigma-tawny.vercel.app/",
           image: "R.png",
         },
         {
-          name: "Ecommerce Website",
+          name: "job Application Website",
           detail:
             "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quis, illo facere   quasi, quo quisquam ipsa cumque ea officiis illum ratione quae eligendi tempore nemo delectus veniam fuga saepe voluptatem!",
-          link: "#",
+          link: "https://created-by-alizafaizan-job-application-website.vercel.app/",
           image: "webApp.png",
         },
       ];
