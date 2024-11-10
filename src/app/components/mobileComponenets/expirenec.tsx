@@ -40,7 +40,7 @@ const MobileExpeirence = () => {
     ];
   return (
     <div className='w-full p-5'> 
-        <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0">
+        <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0 text-gray-900">
         Expirence
         </h2>
         <div className="mt-4 divide-y-2 divide-blue-300">

@@ -28,7 +28,7 @@ const MobileProjects = () => {
       ];
   return (
     <div className='w-full p-5'> 
-        <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0">
+        <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0 text-gray-900">
          Projects
        </h2>
        <div className="flex flex-wrap mt-4 -m-4">

@@ -4,7 +4,7 @@ import { FaCheckSquare } from "react-icons/fa";
 const MobileSkills = () => {
   return (
     <div className="w-full p-5">
-      <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0">
+      <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0 text-gray-900">
         Skills
       </h2>
       <div className="mt-4 flex flex-wrap -m-4">
