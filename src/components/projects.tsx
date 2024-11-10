@@ -1,9 +1,7 @@
-import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import Link from "next/link";
-import { profile } from "console";
 
 const Projects = () => {
   let projects = [

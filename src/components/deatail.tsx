@@ -1,14 +1,11 @@
 
 
-import { Button } from "@/components/ui/button"
-
 import {
   Tabs,
   TabsContent,
   TabsList,
   TabsTrigger,
 } from "@/components/ui/tabs"
-import Link from "next/link"
 import Education from "./ui/education"
 import Skills from "./skills"
 import Projects from "./projects"
