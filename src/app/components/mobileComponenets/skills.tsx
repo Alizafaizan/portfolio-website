@@ -13,7 +13,7 @@ const MobileSkills = () => {
             <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-blue-500 text-white flex-shrink-0">
               <FaCheckSquare className="text-white text-lg" />
             </div>
-            <h2 className="text-lg font-semibold tracking-tight">HTML</h2>
+            <h2 className="text-lg font-semibold tracking-tight text-gray-600">HTML</h2>
           </div>
           <div className="w-full h-1 rounded-lg bg-gray-500">
             <div className="w-[100%] h-1 bg-blue-500 rounded-lg" />
@@ -28,7 +28,7 @@ const MobileSkills = () => {
             <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-blue-500 text-white flex-shrink-0">
               <FaCheckSquare className="text-white text-lg" />
             </div>
-            <h2 className="text-lg font-semibold tracking-tight">CSS</h2>
+            <h2 className="text-lg font-semibold tracking-tight text-gray-600">CSS</h2>
           </div>
           <div className="w-full h-1 rounded-lg bg-gray-500">
             <div className="w-[95%] h-1 bg-blue-500 rounded-lg" />
@@ -43,7 +43,7 @@ const MobileSkills = () => {
             <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-blue-500 text-white flex-shrink-0">
               <FaCheckSquare className="text-white text-lg" />
             </div>
-            <h2 className="text-lg font-semibold tracking-tight">
+            <h2 className="text-lg font-semibold tracking-tight text-gray-600">
               Typescript/Javascript
             </h2>
           </div>
@@ -60,7 +60,7 @@ const MobileSkills = () => {
             <div className="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full bg-blue-500 text-white flex-shrink-0">
               <FaCheckSquare className="text-white text-lg" />
             </div>
-            <h2 className="text-lg font-semibold tracking-tight">Next.js</h2>
+            <h2 className="text-lg font-semibold tracking-tight text-gray-600">Next.js</h2>
           </div>
           <div className="w-full h-1 rounded-lg bg-gray-500">
             <div className="w-[80%] h-1 bg-blue-500 rounded-lg" />
