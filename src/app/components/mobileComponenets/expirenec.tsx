@@ -1,7 +1,7 @@
 import React from 'react'
 
 const MobileExpeirence = () => {
-    let Experience = [
+    let experience = [
         {
             companyName: "Company Name Here",
             dateStart: "12 Jun 2019",
@@ -45,7 +45,7 @@ const MobileExpeirence = () => {
         </h2>
         <div className="mt-4 divide-y-2 divide-blue-300">
         {/* information here */}
-      {Experience.map((item, i) => (
+      {experience.map((item, i) => (
         <div key={i} className="py-4 flex flex-wrap md:flex-nowrap">
         <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
           <span className="font-semibold title-font text-gray-700 uppercase">

@@ -11,7 +11,7 @@ import {
 const Experience = () => {
 
     // My Experience here
-    let Experience = [
+    let experience = [
         {
             companyName: "GIAIC Class",
             dateStart: "6-feb-2024",
@@ -56,7 +56,7 @@ const Experience = () => {
     <CardContent className="space-y-2">
     <div className="-my-8 divide-y-2 divide-gray-100">
         {/* information here */}
-      {Experience.map((item, i) => (
+      {experience.map((item, i) => (
         <div key={i} className="py-8 flex flex-wrap md:flex-nowrap">
         <div className="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
           <span className="font-semibold title-font text-gray-700 uppercase">
