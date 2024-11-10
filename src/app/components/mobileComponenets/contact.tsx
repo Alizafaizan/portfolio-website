@@ -14,7 +14,7 @@ const MobileContact = () => {
               <div className="relative mb-4">
                 <label
                   htmlFor="name"
-                  className="scroll-m-20 text-sm font-semibold tracking-tight"
+                  className="scroll-m-20 text-sm text-gray-600 font-semibold tracking-tight"
                 >
                   Name
                 </label>
@@ -28,7 +28,7 @@ const MobileContact = () => {
               <div className="relative mb-4">
                 <label
                   htmlFor="email"
-                  className="scroll-m-20 text-sm font-semibold tracking-tigh"
+                  className="scroll-m-20 text-sm text-gray-600 font-semibold tracking-tigh"
                 >
                   Email
                 </label>
@@ -42,7 +42,7 @@ const MobileContact = () => {
               <div className="relative mb-4">
                 <label
                   htmlFor="message"
-                  className="scroll-m-20 text-sm font-semibold tracking-tigh"
+                  className="scroll-m-20 text-sm text-gray-600 font-semibold tracking-tigh"
                 >
                   Message
                 </label>
