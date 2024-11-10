@@ -24,9 +24,9 @@ const MobileEducation = () => {
     ];
   return (
     <div className="w-full p-5">
-         <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0">
+         <h2 className="scroll-m-20 border-b border-blue-500 pb-2 text-3xl font-semibold tracking-tight first:mt-0 text-gray-900">
         Education
-      </h2>
+      </h2> 
       <div className="mt-4 divide-y-2 divide-blue-200">
         {/* Bachelors */}
         {education.map((item, i) => (
@@ -41,7 +41,7 @@ const MobileEducation = () => {
               <h2 className="text-xl font-medium-bold text-gray-800 title-font mb-2 uppercase">
                 {item.uniName}
               </h2>
-              <p className="leading-relaxed">{item.details}</p>
+              <p className="leading-relaxed text-gray-600">{item.details}</p>
             </div>
           </div>
         ))}
