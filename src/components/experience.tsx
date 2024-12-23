@@ -12,19 +12,6 @@ const Experience = () => {
 
     // My Experience here
     let experience = [
-        {
-            companyName: "GIAIC Class",
-            dateStart: "6-feb-2024",
-            dateEnd: "Continue.....",
-            position: "Frontend Developer",
-            details: "B.Com is an undergraduate academic degree awarded for a course or program in Commerce. The duration of the B.Com course is 3 years in Karachi University, divided into six distinct semesters. The B.Com courses list includes Marketing, accounting, entrepreneurship, various taxation and industrial laws etc.",
-            work:
-               [
-              "Develop there official website.",
-               "maked-e=commerce website.",
-               "Have contributed on the team task."]
-        },
-
        {
             companyName: "SGFA",
             dateStart: "12 Jun 2019",
@@ -46,6 +33,23 @@ const Experience = () => {
             "Good at as a Team Mangment.",
              ]
       },
+      {
+        companyName: " Student of GIAIC",
+        dateStart: "6-feb-2024",
+        dateEnd: "Continue.....",
+        position: "As a Student",
+        details: "trained in this program will win by automating work typically outsourced to employees, by directly connecting to customers by eliminating the middleman, and by developing vertical metaverses, thus paving the way for the first billion-dollar valued solopreneur businesses. This program has the objective to train this new breed of billion-dollar solopreneurs. These solopreneurs will adopt the ultra-lean business model and work independently and will not need to hire employees or other team members.",
+        work:
+           [
+          "Command Line Calcualtor",
+          "Age Calculator",
+          "Weather App.",
+          "Resume Builder.",
+          "E-Commerce Website.",
+          "Portfolio Website",
+          "Rental Car Application",
+          "To be Continue..."]
+    },
      
     ];
   return (

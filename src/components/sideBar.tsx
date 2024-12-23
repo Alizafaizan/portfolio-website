@@ -37,7 +37,7 @@ export function Sidebar() {
         {/*linkdin*/}
         <div className="mt-3">
           <Link
-            href="#"
+            href="https://www.linkedin.com/in/alizafaizan/"
             target="_blank"
             className=" text-gray-600 hover:text-[#0762c8]"
           >
@@ -48,7 +48,7 @@ export function Sidebar() {
         {/*github*/}
         <div className="mt-3">
           <Link
-            href="#"
+            href="https://github.com/Alizafaizan"
             target="_blank"
             className=" text-gray-600 hover:text-[#6e5494]"
           >
@@ -58,7 +58,7 @@ export function Sidebar() {
       </div>
 
       {/*Download CV Button*/}
-      <Link href={"/CV.pdf"} className="mt-3" target="_blank">
+      <Link href={"/assets/Resume Builder Aliza Faizan.pdf"} className="mt-3" target="_blank">
         <Button className="p-3 bg-black text-white hover:bg-blue-700 rounded-full">
           <FaCloudDownloadAlt className="mr-2 h-4 w-4" />
           Download CV

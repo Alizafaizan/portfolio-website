@@ -6,26 +6,34 @@ import Link from "next/link";
 const Projects = () => {
   let projects = [
     {
-      name: "Ecommerce Website",
+      name: "Rental Car Website",
       detail:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quis, illo facere   quasi, quo quisquam ipsa cumque ea officiis illum ratione quae eligendi tempore nemo delectus veniam fuga saepe voluptatem!",
-      link: "#",
-      image: "landing.png",
+     "Discover flexible and affordable car rentals with our easy-to-use website. Book your perfect ride anytime, anywhere, and hit the road with confidence!",
+      link: "https://figma-heckathon-2.vercel.app/",
+      image: "RentalCar.png",
     },
     {
       name: "Resume Builder",
       detail:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quis, illo facere   quasi, quo quisquam ipsa cumque ea officiis illum ratione quae eligendi tempore nemo delectus veniam fuga saepe voluptatem!",
-      link: "#",
+       "Create professional resumes effortlessly with our intuitive resume builder application. Customize templates to showcase your skills and land your dream job in minutes!",
+      link: "https://resume-builder-sigma-tawny",
       image: "R.png",
+    },
+    {
+      name: "Job Application Web",
+      detail:
+        "Find your dream job with ease on our job application website. Explore opportunities, submit applications, and kick-start your career journey today!",
+      link: "#",
+      image: "webApp.png",
     },
     {
       name: "Ecommerce Website",
       detail:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni quis, illo facere   quasi, quo quisquam ipsa cumque ea officiis illum ratione quae eligendi tempore nemo delectus veniam fuga saepe voluptatem!",
+        "Explore our e-commerce website for a wide range of high-quality products at unbeatable prices. Enjoy a seamless shopping experience with secure payments and fast delivery!",
       link: "#",
-      image: "webApp.png",
+      image: "landing.png",
     },
+    
   ];
   // My Education here
   return (
